@@ -1,1 +1,11 @@
-
+{
+    "description": "gomsoft.is-a.dev",
+    "repo": "https://github.com/ernesto2066/Gomsoft-HTML5",
+    "owner": {
+        "username": "ernesro2066",
+        "email": "ernesto2066@gmail.com"
+    },
+    "record": {
+        "CNAME": "gomsoft.github.io"
+    }
+}
