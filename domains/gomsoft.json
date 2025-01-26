@@ -1,0 +1,11 @@
+{
+    "description": "gomsoft.is-a.dev",
+    "repo": "https://github.com/ernesto2066/ernesto2066.github.io",
+    "owner": {
+        "username": "ernesto2066",
+        "email": "ernesto2066@gmail.com"
+    },
+    "record": {
+        "CNAME": "ernesto2066.github.io"
+    }
+}
